@@ -159,7 +159,7 @@
 
     <avro.version>1.7.5</avro.version>
     <guava.version>11.0.2</guava.version>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
     <commons-io.version>2.4</commons-io.version>
     <curator.version>2.3.0</curator.version>
     <metrics.version>3.0.1</metrics.version>
