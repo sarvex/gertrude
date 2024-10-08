@@ -157,7 +157,7 @@
     <dependency.locations.enabled>false</dependency.locations.enabled>
     <dependency.details.enabled>false</dependency.details.enabled>
 
-    <avro.version>1.7.5</avro.version>
+    <avro.version>1.11.4</avro.version>
     <guava.version>11.0.2</guava.version>
     <junit.version>4.13.1</junit.version>
     <commons-io.version>2.4</commons-io.version>
